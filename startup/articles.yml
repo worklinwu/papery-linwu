@@ -1,0 +1,18 @@
+- id: papery-quickstart
+  title: Papery快速指南
+  postedOn: !!str 2013-01-02
+  author: Papery
+  tags: 
+    - Papery
+    - 指南
+  abstract: 快速了解如何使用Papery。
+
+- id: code-and-math
+  title: 代码与数学公式示例
+  postedOn: !!str 2013-01-01
+  author: Papery
+  tags:
+    - Papery
+    - 代码
+    - 数学公式
+  abstract: 展示了一些代码和数学公式显示效果。

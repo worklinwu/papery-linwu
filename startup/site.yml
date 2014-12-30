@@ -1,0 +1,25 @@
+title: Title of blog
+subtitle: Subtitle of blog
+link: Homepage link
+meta:
+  description: Content of description meta tag
+  keywords: !!seq
+    - keyword1
+    - keyword2
+    - keyword3
+  author: Content of author meta tag
+master:
+  name: Your name
+  about: Introduce yourself here
+  email: Your E-mail
+rss:
+  title: RSS feed title
+  desc: RSS feed description
+  lang: zh-cn
+  max: 10
+copyright:
+  owner: Copyrighter
+  beginYear: 2011
+  endYear: 2013
+theme: default
+codetheme: night
